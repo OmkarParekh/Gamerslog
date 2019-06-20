@@ -1,0 +1,30 @@
+@font-face{
+	font-family: 'Header';
+	src: url('https://fonts.gstatic.com/s/kaushanscript/v7/vm8vdRfvXFLG3OLnsO15WYS5DG74wNI.woff2');
+}
+.bg-image-video{
+	background: url('../img/backgrounds/video1.jpeg');
+}
+.bg-output{
+	background: url('../img/backgrounds/output.jpg');
+	width: 100%;
+	height: 20em;
+}
+.bg-image-video, .bg-output{
+  background-size: cover;
+  background-position: center;
+}
+.header-back{
+	padding-bottom: 10px;
+}
+
+.fw-300{
+	font-weight: 300!important;
+}
+.fs-1em{
+	font-size: 2.75em;
+}
+.logo-image{
+	font-family: "Header"!important;
+	font-size: 3em!important;
+}
