@@ -28,3 +28,9 @@
 	font-family: "Header"!important;
 	font-size: 3em!important;
 }
+@media only screen and (max-width: 576px) {
+	.logo-image{
+		font-family: "Header"!important;
+		font-size: 1.3rem !important;
+	}
+  }
